@@ -1,0 +1,8 @@
+v 3
+d fre: Stata module to display one-way frequency table
+d 
+d Author: Ben Jann, University of Bern, ben.jann@soz.unibe.ch
+d
+d Distribution-Date: 20210526
+f fre.hlp
+f fre.ado

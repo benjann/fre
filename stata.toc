@@ -1,0 +1,2 @@
+v 3
+p fre Stata module to display one-way frequency table
